@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var meaningless = ""
+    var thinkingless = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
